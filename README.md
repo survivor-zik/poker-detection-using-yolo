@@ -13,6 +13,5 @@ The dataset used for training the model is the Playing Cards image dataset by Ro
 1. Clone the repository:
    ```
    git clone https://github.com/survivor-zik/yolo.git
-   
+   ```
 2. Run YOLO over the dataset 
-    ```
